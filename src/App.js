@@ -1,12 +1,12 @@
-import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Card from "./Card";
+import CardGallery from "./Cardgallery";
 
 function App() {
   return (
     <>
-      <Card />
+
+      <CardGallery />
     </>
   );
 }
